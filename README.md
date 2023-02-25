@@ -1,4 +1,4 @@
 # crypto-html.github.io
 &lt;crypto-html> Web Component
 
-https://robinmoisson.github.io/staticrypt/
+Encode: [https://robinmoisson.github.io/staticrypt/](https://robinmoisson.github.io/staticrypt/)
